@@ -1,2 +1,2 @@
 FROM brianjohnhaas/evidencemodeler
-LABEL MAINTAINER=your_email@example.com
+LABEL MAINTAINER=yinhang@ibcas.ac.cn
