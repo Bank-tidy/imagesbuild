@@ -1,2 +1,2 @@
-FROM Wenfei-Xian/TIPP
+FROM Wenfei-Xian/tipp
 LABEL MAINTAINER=yinhang@ibcas.ac.cn
